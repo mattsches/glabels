@@ -420,6 +420,17 @@
     </Label-rectangle>
   </Template>
 
+
+  <!-- =================================================================== -->
+  <!-- Herma 5028: Rectangular Labels 83.8mm x 50.8mm, 10 per sheet        -->
+  <!-- =================================================================== -->
+  <Template brand="Herma" part="5028" size="A4" description="Rectangular labels">
+    <Label-rectangle id="0" width="83.8mm" height="50.8mm" round="2mm" x_waste="0mm" y_waste="0mm">
+      <Markup-margin size="3.175mm"/>
+      <Layout nx="2" ny="5" x0="18.64mm" y0="21.5mm" dx="88.9mm" dy="50.8mm"/>
+    </Label-rectangle>
+  </Template>
+
   
 </Glabels-templates>
 
